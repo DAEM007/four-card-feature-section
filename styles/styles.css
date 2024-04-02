@@ -1,0 +1,18 @@
+/* All imports */
+
+/* universal styles */
+
+/* variables */
+
+/* mobile styles */
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-block: 3rem;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* desktop responsive styles */
