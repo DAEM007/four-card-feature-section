@@ -1,8 +1,26 @@
 /* All imports */
 
 /* universal styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
 /* variables */
+:root {
+  --Very-Dark-Blue: hsl(234, 12%, 34%);
+  --Grayish-Blue: hsl(229, 6%, 66%);
+  --Very-Light-Gray: hsl(0, 0%, 98%);
+  --Red-primary: hsl(0, 78%, 62%);
+  --Cyan-primary: hsl(180, 62%, 55%);
+  --Orange-primary: hsl(34, 97%, 64%);
+  --Blue-primary: hsl(212, 86%, 64%);
+  --font-15: 15px;
+  --font-200: 200px;
+  --font-400: 400px;
+  --font-600: 600px;
+}
 
 /* mobile styles */
 
