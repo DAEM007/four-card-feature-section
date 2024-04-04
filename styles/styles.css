@@ -54,6 +54,36 @@ body {
   color: var(--Grayish-Blue);
 }
 
+.cards-wrapper {
+  max-width: 1100px;
+  padding-inline: 2rem;
+}
+
+.card {
+  width: 100%;
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+  padding: 1.5rem;
+  border-top: 4px solid var(--Cyan-primary);
+  border-radius: 0.5rem;
+  /* box-shadow: 0px 0.5px 120px var(--Grayish-Blue); */
+}
+
+.card .texts h2 {
+  color: var(--Very-Dark-Blue);
+}
+
+.card .texts p {
+  color: var(--Grayish-Blue);
+}
+
+.card .image-container {
+  display: flex;
+  justify-content: flex-end;
+}
+
 .attribution {
   font-size: 11px;
   text-align: center;
@@ -66,6 +96,10 @@ body {
 /* desktop responsive styles */
 @media (min-width: 768px) {
   .texts-wrapper {
+    margin-inline: auto;
+  }
+
+  .cards-wrapper {
     margin-inline: auto;
   }
 }
