@@ -13,7 +13,7 @@
 
 ### Links
 
-- solution URL - [daem-four-card-feature-solution](https://github.com/DAEM007/recipe-page)
+- solution URL - [daem-four-card-feature-solution](https://github.com/DAEM007/four-card-feature-section)
 - Live Site URL: [daem-four-card-feature-live](https://recipe-page-daem007.vercel.app/)
 
 ### Built with
