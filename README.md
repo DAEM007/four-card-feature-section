@@ -14,7 +14,7 @@
 ### Links
 
 - solution URL - [daem-four-card-feature-solution](https://github.com/DAEM007/four-card-feature-section)
-- Live Site URL: [daem-four-card-feature-live](https://recipe-page-daem007.vercel.app/)
+- Live Site URL: [daem-four-card-feature-live](https://four-card-feature-section-khaki-tau.vercel.app/)
 
 ### Built with
 
